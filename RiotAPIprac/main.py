@@ -2,7 +2,7 @@ import requests
 
 # Due to the public api limiting number of request after data is extracted it is copied
 # API key expires every 24 hours
-api_key = 'RGAPI-f21d782a-c543-4cad-9389-aa64de90ecfe'
+api_key = ''
 accountIds = []
 all_ids = ['drTuMCmjqTLTRsEPBLty9P8B6IRCPfvnt9hj_5eaVMuFAGI', '45cBkV6n9ErvV1yCKNun5VBbq9rJ_TfeTMxtAkT3V_7aKeo',
            'uRH7ZxJcl4OdAcaHhg3b8BaAOqWzjjAmO-Lpc2uJjUPzdQ', '1s2GYyLQifN82P5Q9JQP-yoOAL-3a97VsPTg4JUFxIzxhw',
